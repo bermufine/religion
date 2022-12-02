@@ -7,6 +7,8 @@
 
 {"descriptionReli":"GPC TV c'est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens","sourceReli":["https://helga.iptv2022.com/GPC_TV/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODQ2ODkyMzFf/GPC.jpg","titleReli":"GPC TV / CAMEROUNE"},
 
+{"descriptionReli":"AMEN TV est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens, Une chaine du ministerevAmen de l'apotre Leopold Mutombo","sourceReli":["https://edge18.vedge.infomaniak.com/livecast/ik:amentvsat_4/chunklist_w477062574.m3u8?spark=3da853d7-ad9a-4e30-8523-6b7d1bb8c9be&token="],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODQ2ODkyOTlf/Amen.jpeg","titleReli":"AMEN TV / RDCONGO"},
+
 {"descriptionReli":"Golgotha TV est une chaine chrétienne généraliste, émettant depuis Lubumbashi en République Démocratique du Congo. Elle a pour but de répandre l 'évangile de Jésus-Christ dans le monde entier par ces différents programmes: Prédications, Enseignements, Emissions, Musiques chrétienne, Actualités, Sports, Films et tant d'autres surprises.","sourceReli":["https://cdn.strimie.eu:3438/live/golgothatvlive.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yNjQ1OTAwODNf/golgotha.jpg","titleReli":"GOLGOTHA  TV"},
 
 {"descriptionReli":"DESIGN PLUS TV, est une chaine de télévision généraliste de la société design plus entreprise ; axée sur la jeunesse et la culture de valeur chrétienne pour l’impact de christ dans le monde.","sourceReli":["https://helga.iptv2022.com/Design_Plus_TV/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODQ2ODkyNTdf/DESIGNPLUS.jpeg","titleReli":"DESIGN PLUS / RDCONGO"},
