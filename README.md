@@ -1,10 +1,12 @@
 # religion
-{"categorieReli":[{"name":"Movies","videos":[{"descriptionReli":"PROVIDENCE TV une chaîne d'éducation, exhortation de la bonne parole pour sauver les âmes en Jésus Christ, 
+{"categorieReli":[{"name":"Movies","videos":[{"descriptionReli":"BERO GOSPEL est l'une des Televisions en charactere Gospel avec la diversite sans stop de la Musique Religieuse, Prédications et autres... Sans oublier des Emissions special chretienne. Veuillez nous contacter : congomonpays243@gmail.com.","sourceReli":["https://stream.zeno.fm/3rbd2vdzpqlvv.mp3"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yOTE5NjEyMDhf/phototwo.jpg","titleReli":"BERO GOSPEL"},
+
+{"descriptionReli":"ONE-TV est une chaine Chrétienne emattan a kinshasa où vous disposez d'enseignements Chrétien français, des prédications et d'exhortations pour le développement de votre foi chrétienne.","sourceReli":["https://live-onetv.eu:5866/hls/Clive1.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yNjQ1OTAyNTRf/onetv.png","titleReli":"ONE TV"},
+
+{"descriptionReli":"PROVIDENCE TV une chaîne d'éducation, exhortation de la bonne parole pour sauver les âmes en Jésus Christ, 
 comme Romains 10: 9 - 10 dit:
 9. Si tu confesses de ta bouche le Seigneur Jésus, et si tu crois dans ton cœur que Dieu l'a ressuscité des morts, tu seras sauvé.
 10. Car c'est en croyant du coeur qu'on parvient à la justice, et c'est en confessant de la bouche qu'on parvient au salut. notre Slogan est de =Conquérir le monde pour Jésus - Christ=","sourceReli":["https://tvstudio.strimie.eu:3757/stream/play.m3u8"],"subtitleReli":"ByChannel","thumbReli":"https://od.lk/s/M18yOTA5NjQ5MDhf/Providencetv.png","titleReli":"PROVIDENCE TV"},
-
-{"descriptionReli":"ONE-TV est une chaine Chrétienne emattan a kinshasa où vous disposez d'enseignements Chrétien français, des prédications et d'exhortations pour le développement de votre foi chrétienne.","sourceReli":["https://live-onetv.eu:5866/hls/Clive1.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yNjQ1OTAyNTRf/onetv.png","titleReli":"ONE TV"},
 
 {"descriptionReli":"CCPV TV est une chaine congolaise avec des divers programmes","sourceReli":["http://51.15.3.133:8080/CCPVTV/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","titleReli":"CCPV TV"},
 
