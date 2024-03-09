@@ -3,6 +3,8 @@
 
 {"descriptionReli":"ONE-TV est une chaine Chrétienne emattan a kinshasa où vous disposez d'enseignements Chrétien français, des prédications et d'exhortations pour le développement de votre foi chrétienne.","sourceReli":["https://ssh101.bozztv.com/ssh101/onetvlive/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","titleReli":"ONE TV"},
 
+{"descriptionReli":"Miracle TV est une chaine televisee chretienne ivoiriens qui diffuse que des informations, musiques et autres chritienne....","sourceReli":["https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yOTA2ODE2NzJf/miracleabidjan.png","titleReli":"MIRACLE TV"},
+
 {"descriptionReli":"CCPV TV est une chaine congolaise avec des divers programmes","sourceReli":["http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","titleReli":"CCPV TV"},
 
 {"descriptionReli":"Glory Christ Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceReli":["https://stream.it-innov.com/gcc/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yOTU4OTU4NTJf/gloryChrist.jpeg","titleReli":"GLORY CHRIST"},
@@ -10,6 +12,8 @@
 {"descriptionReli":"Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.","sourceReli":["https://tv.tnf-rdc.com/METANOIA-STREAM1/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png","titleReli":"METANOIA TV"},
 
 {"descriptionReli":"Radio Tele Pain Vivant ministère Chrétien pour annoncer l’évangile de Jésus Christ partout dans le monde, toucher changer et sauver des vies par la puissance de la parole de DIEU avec des enseignements prédications adorations louanges partages de prières, d’exhortations et de témoignages","sourceReli":["https://video1.getstreamhosting.com:1936/8028/8028/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yOTE2NzM5Mjlf/paindevivant.jpeg","titleReli":"RT PAIN VIVANT"},
+
+{"descriptionReli":"Jesus Temple TV est une chaîne télévisée chrétienne émettant à Accra au Ghana","sourceReli":["https://5a1178b42cc03.streamlock.net/jesustemple/jesustemple/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODk4NDYxNTdf/temple.jpeg","titleReli":"JESUS TEMPLE"},
 
 {"descriptionReli":"La LUMIÈRE, ministère Chrétien pour annoncer l’évangile de Jésus Christ partout dans le monde, toucher changer et sauver des vies par la puissance de la parole de DIEU avec des enseignements prédications adorations louanges partages de prières, d’exhortations et de témoignages","sourceReli":["https://video1.getstreamhosting.com:1936/8248/8248/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_124,h_124/https://telepack.net/wp-content/uploads/2020/05/lumiere-tv.png","titleReli":"LUMIERE TV"},
 
@@ -37,11 +41,15 @@
 
 {"descriptionReli":"Congo Planet Rumba est la chaine de la RDCongo qui qui diffuse de la musique rumba congolaise t et autres","sourceReli":["https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yNDU0NzYzODBf/CPlanetRhumba.jpeg","titleReli":"CONGO PLANET GOSPEL"},
 
+{"descriptionReli":"Healing Jésus TV est une chaîne télévisée chrétienne émettant à Accra au Ghana","sourceReli":["https://webstreaming-3.viewmedia.tv/web_041/Stream/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODk4NDU4MDdf/healingjesus.jpeg","titleReli":"HEALING JESUS"},
+
 {"descriptionReli":"GOD TV aims to bring families together to watch a variety of unique and inspiring shows and ranging from entertainment kids programming educational documentaries and Nasheed enriching their lives and empowering them.","sourceReli":["https://hlsb-us.god.tv/GODTV/USA-360.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODY0NjQyNzFf/god.png","titleReli":"GOD TV"},
 
 {"descriptionReli":"My Gospel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceReli":["http://102.132.19.90:8000/play/a049/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yOTU4OTUzODZf/mygospel.jpeg","titleReli":"MY GOSPEL"},
 
 {"descriptionReli":"CHRIST LIVE est une chaîne de divertissement et d’évènementiel Chrétien africain. Lancée en Juin 2019, elle diffuse en claire en Afrique francophone, anglophone et lusophone","sourceReli":["https://voozmedia.fun/stream/christlive/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODQ2NzY3NDVf/christlive.png","titleReli":"CHRIST LIVE"},
+
+{"descriptionReli":"Hope Channel TV est une chaîne télévisée chrétienne émettant à Accra au Ghana","sourceReli":["https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODk4NDU5MDJf/hopechanneljpeg","titleReli":"HOPE CHANNEL"},
 
 {"descriptionReli":"Divin Amour TV s’inscrit dans une vision liée à la nouvelle évangélisation. C’est une télévision de réveil spirituel qui émet au plan national et international pour promouvoir la Parole de Dieu. Divin Amour TV prévoit réaliser ses objectifs à travers des enquêtes, des reportages, des journaux télévisés, des émissions innovantes et interactives, des portraits, des programmes d’évangélisation. Elle ne s’immisce pas dans les débats politiques, mais propose un regard chrétien sur l’actualité, invitant les Hommes à plus d’Amour et de solidarité comme ne cesse de le répéter le Pape François. Divin Amour TV est accessible par satellite et web-streaming. La chaîne répond ainsi donc à un besoin pressant et croissant exprimé par des milliers de femmes et d’hommes pas seulement catholiques, mais désireux de voir une chaîne de télévision chrétienne dans l’espace médiatique mondial.","sourceReli":["https://helga.iptv2022.com/Divin_Amour/index.m3u8"],"subtitleReli":"ByChannel","thumbReli":"https://od.lk/s/M18yODQ2ODkyNDZf/DivinAmour.jpeg","titleReli":"DIVINE AMOUR"}]}]}
 
