@@ -11,6 +11,8 @@
 
 {"descriptionReli":"Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.","sourceReli":["https://tv.tnf-rdc.com/METANOIA-STREAM1/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png","titleReli":"METANOIA TV"},
 
+{"descriptionReli":"SHAMMAH TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions et autres....","sourceReli":["https://cageu.bozztv.com/ssh101/ssh101/my23a2r/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleReli":"SHAMMAH TV"},
+
 {"descriptionReli":"Radio Tele Pain Vivant ministère Chrétien pour annoncer l’évangile de Jésus Christ partout dans le monde, toucher changer et sauver des vies par la puissance de la parole de DIEU avec des enseignements prédications adorations louanges partages de prières, d’exhortations et de témoignages","sourceReli":["https://video1.getstreamhosting.com:1936/8028/8028/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yOTE2NzM5Mjlf/paindevivant.jpeg","titleReli":"RT PAIN VIVANT"},
 
 {"descriptionReli":"Jesus Temple TV est une chaîne télévisée chrétienne émettant à Accra au Ghana","sourceReli":["https://5a1178b42cc03.streamlock.net/jesustemple/jesustemple/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODk4NDYxNTdf/temple.jpeg","titleReli":"JESUS TEMPLE"},
