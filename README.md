@@ -5,6 +5,8 @@
 
 {"descriptionReli":"Miracle TV est une chaine televisee chretienne ivoiriens qui diffuse que des informations, musiques et autres chritienne....","sourceReli":["https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yOTA2ODE2NzJf/miracleabidjan.png","titleReli":"MIRACLE TV"},
 
+{"descriptionReli":"Yakaar TV est la première chaîne de télévision chrétienne et liturgique au Sénégal. Yakaar TV vous fait découvrir la véritable culture du gospel Afro-Caribéen et la liturgie chrétienne.","sourceReli":["https://strhls.streamakaci.tv/yakaartv/yakaartv-multi/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODQ2ODkyMzZf/Yakaar.jpeg","titleReli":"YAKAAR TV"},
+
 {"descriptionReli":"CCPV TV est une chaine congolaise avec des divers programmes","sourceReli":["http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","titleReli":"CCPV TV"},
 
 {"descriptionReli":"Glory Christ Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceReli":["https://stream.it-innov.com/gcc/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yOTU4OTU4NTJf/gloryChrist.jpeg","titleReli":"GLORY CHRIST"},
@@ -15,6 +17,8 @@
 
 {"descriptionReli":"Radio Tele Pain Vivant ministère Chrétien pour annoncer l’évangile de Jésus Christ partout dans le monde, toucher changer et sauver des vies par la puissance de la parole de DIEU avec des enseignements prédications adorations louanges partages de prières, d’exhortations et de témoignages","sourceReli":["https://video1.getstreamhosting.com:1936/8028/8028/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yOTE2NzM5Mjlf/paindevivant.jpeg","titleReli":"RT PAIN VIVANT"},
 
+{"descriptionReli":"A2i tv Relegion est une chaine culturelle destinée à la Diasporat senegalais avec des programme chretiens.","sourceReli":["https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yOTEwMjU0MTRf/a2ireligion.jpg","titleReli":"A2i RELIGION"},
+
 {"descriptionReli":"Jesus Temple TV est une chaîne télévisée chrétienne émettant à Accra au Ghana","sourceReli":["https://5a1178b42cc03.streamlock.net/jesustemple/jesustemple/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODk4NDYxNTdf/temple.jpeg","titleReli":"JESUS TEMPLE"},
 
 {"descriptionReli":"La LUMIÈRE, ministère Chrétien pour annoncer l’évangile de Jésus Christ partout dans le monde, toucher changer et sauver des vies par la puissance de la parole de DIEU avec des enseignements prédications adorations louanges partages de prières, d’exhortations et de témoignages","sourceReli":["https://video1.getstreamhosting.com:1936/8248/8248/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_124,h_124/https://telepack.net/wp-content/uploads/2020/05/lumiere-tv.png","titleReli":"LUMIERE TV"},
@@ -22,6 +26,8 @@
 {"descriptionReli":"King TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions et autres....","sourceReli":["http://89.163.146.99/KING_TV/tracks-v1a1/mono.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yOTE1MjUwMzFf/kingrdc.jpg","titleReli":"KING TV"},
 
 {"descriptionReli":"SSM TV est une chaine chretienne qui emette a kinshasa en diffusant des emissions et autres....","sourceReli":["https://tv.tnf-rdc.com/SSM-STREAM1/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODU5ODc0OTlf/ssmtv.jpg","titleReli":"STUDIO SANGO MALAMU"},
+
+{"descriptionReli":"Bride TV c'est une chaîne religieuse du Nigeria qui diffusé des predications la musique chrétienne et les émissions chrétiennes et les films chrétiens","sourceReli":["https://webstreaming.viewmedia.tv/web_013/Stream/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODQ2ODkzMDBf/Bride.jpeg","titleReli":"BRIDE TV"},
 
 {"descriptionReli":"Parole Eternele TV est une chaine chretienne de l'eglise la Borne a lubumbashi.","sourceReli":["http://85.234.131.234:8080/ISI-BROADCAST/PAROLETV/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODU5ODc0NTJf/paroleeternel.png","titleReli":"PAROLE ETERNELE TV"},
 
@@ -74,8 +80,6 @@
 {"descriptionReli":"VERITE TV est une chaine de télévision congolaise emettant a Londre qui a comme but de propager la PAROLE du SEIGNEUR JÉSUS à travers le monde pour le salut des âmes. Contact +447305267788, +447939219929","sourceReli":["http://51.254.199.122:8080/veriteTV/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yNjQ1OTAxOTRf/verites.png","titleReli":"VERITE TV"},
 
 {"descriptionReli":"JKM TV est une chaîne chrétienne qui diffuse l'amour de JESUS CHRIST dans le monde entier..","sourceReli":["http://51.254.199.122:8080/JKMchurch/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yNjk4Mzk4MDNf/jkmtv.png","titleReli":"JKM CHURCH"},
-
-{"descriptionReli":"Bride TV c'est une chaîne religieuse du Nigeria qui diffusé des predications la musique chrétienne et les émissions chrétiennes et les films chrétiens","sourceReli":["https://helga.iptv2022.com/Bride_TV/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODQ2ODkzMDBf/Bride.jpeg","titleReli":"BRIDE TV"},
 
 {"descriptionReli":"Golgotha TV est une chaine chrétienne généraliste, émettant depuis Lubumbashi en République Démocratique du Congo. Elle a pour but de répandre l 'évangile de Jésus-Christ dans le monde entier par ces différents programmes: Prédications, Enseignements, Emissions, Musiques chrétienne, Actualités, Sports, Films et tant d'autres surprises.","sourceReli":["https://cdn.strimie.eu:3438/live/golgothatvlive.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yNjQ1OTAwODNf/golgotha.jpg","titleReli":"GOLGOTHA  TV"},
 
