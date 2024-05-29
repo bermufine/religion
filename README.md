@@ -11,11 +11,11 @@
 
 {"descriptionReli":"EMCI TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne.","sourceReli":["http://185.59.221.131:8081/live/emci/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","titleReli":"EMCI TV"},
 
-{"descriptionReli":"Glory Christ Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceReli":["https://stream.it-innov.com/gcc/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yOTU4OTU4NTJf/gloryChrist.jpeg","titleReli":"GLORY CHRIST"},
-
-{"descriptionReli":"Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.","sourceReli":["https://tv.tnf-rdc.com/METANOIA-STREAM1/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png","titleReli":"METANOIA TV"},
+{"descriptionReli":"Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.","sourceReli":["https://tnt-television.com/METANOIA-STREAM1/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png","titleReli":"METANOIA TV"},
 
 {"descriptionReli":"JKM TV est une chaîne chrétienne qui diffuse l'amour de JESUS CHRIST dans le monde entier..","sourceReli":["http://51.254.199.122:8080/JKMchurch/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yNjk4Mzk4MDNf/jkmtv.png","titleReli":"JKM CHURCH"},
+
+{"descriptionReli":"Glory Christ Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceReli":["https://stream.it-innov.com/gcc/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yOTU4OTU4NTJf/gloryChrist.jpeg","titleReli":"GLORY CHRIST"},
 
 {"descriptionReli":"SHAMMAH TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions et autres....","sourceReli":["https://cageu.bozztv.com/ssh101/ssh101/my23a2r/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleReli":"SHAMMAH TV"},
 
