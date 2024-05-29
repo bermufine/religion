@@ -9,9 +9,13 @@
 
 {"descriptionReli":"CCPV TV est une chaine congolaise avec des divers programmes","sourceReli":["http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","titleReli":"CCPV TV"},
 
+{"descriptionReli":"EMCI TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne.","sourceReli":["http://185.59.221.131:8081/live/emci/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","titleReli":"EMCI TV"},
+
 {"descriptionReli":"Glory Christ Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceReli":["https://stream.it-innov.com/gcc/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yOTU4OTU4NTJf/gloryChrist.jpeg","titleReli":"GLORY CHRIST"},
 
 {"descriptionReli":"Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.","sourceReli":["https://tv.tnf-rdc.com/METANOIA-STREAM1/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png","titleReli":"METANOIA TV"},
+
+{"descriptionReli":"JKM TV est une chaîne chrétienne qui diffuse l'amour de JESUS CHRIST dans le monde entier..","sourceReli":["http://51.254.199.122:8080/JKMchurch/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yNjk4Mzk4MDNf/jkmtv.png","titleReli":"JKM CHURCH"},
 
 {"descriptionReli":"SHAMMAH TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions et autres....","sourceReli":["https://cageu.bozztv.com/ssh101/ssh101/my23a2r/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleReli":"SHAMMAH TV"},
 
@@ -87,7 +91,7 @@
 
 {"descriptionReli":"VERITE TV est une chaine de télévision congolaise emettant a Londre qui a comme but de propager la PAROLE du SEIGNEUR JÉSUS à travers le monde pour le salut des âmes. Contact +447305267788, +447939219929","sourceReli":["http://51.254.199.122:8080/veriteTV/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yNjQ1OTAxOTRf/verites.png","titleReli":"VERITE TV"},
 
-{"descriptionReli":"JKM TV est une chaîne chrétienne qui diffuse l'amour de JESUS CHRIST dans le monde entier..","sourceReli":["http://51.254.199.122:8080/JKMchurch/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yNjk4Mzk4MDNf/jkmtv.png","titleReli":"JKM CHURCH"},
+
 
 {"descriptionReli":"Golgotha TV est une chaine chrétienne généraliste, émettant depuis Lubumbashi en République Démocratique du Congo. Elle a pour but de répandre l 'évangile de Jésus-Christ dans le monde entier par ces différents programmes: Prédications, Enseignements, Emissions, Musiques chrétienne, Actualités, Sports, Films et tant d'autres surprises.","sourceReli":["https://cdn.strimie.eu:3438/live/golgothatvlive.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yNjQ1OTAwODNf/golgotha.jpg","titleReli":"GOLGOTHA  TV"},
 
