@@ -3,6 +3,8 @@
 
 {"descriptionReli":"ONE-TV est une chaine Chrétienne emattan a kinshasa où vous disposez d'enseignements Chrétien français, des prédications et d'exhortations pour le développement de votre foi chrétienne.","sourceReli":["https://ssh101.bozztv.com/ssh101/onetvlive/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","titleReli":"ONE TV"},
 
+{"descriptionReli":"AYA TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques et autres chritienne....","sourceReli":["https://amigofx.com:1936/ayatv/ayatv/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg","titleReli":"AYA TV"},
+
 {"descriptionReli":"Miracle TV est une chaine televisee chretienne ivoiriens qui diffuse que des informations, musiques et autres chritienne....","sourceReli":["https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yOTA2ODE2NzJf/miracleabidjan.png","titleReli":"MIRACLE TV"},
 
 {"descriptionReli":"Yakaar TV est la première chaîne de télévision chrétienne et liturgique au Sénégal. Yakaar TV vous fait découvrir la véritable culture du gospel Afro-Caribéen et la liturgie chrétienne.","sourceReli":["https://strhls.streamakaci.tv/yakaartv/yakaartv-multi/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODQ2ODkyMzZf/Yakaar.jpeg","titleReli":"YAKAAR TV"},
