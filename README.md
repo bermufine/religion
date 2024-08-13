@@ -1,7 +1,13 @@
 # religion
 {"categorieReli":[{"name":"Movies","videos":[{"descriptionReli":"BERO GOSPEL est l'une des Televisions en charactere Gospel avec la diversite sans stop de la Musique Religieuse, Prédications et autres... Sans oublier des Emissions special chretienne. Veuillez nous contacter : congomonpays243@gmail.com.","sourceReli":["https://stream.zeno.fm/3rbd2vdzpqlvv.mp3"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yOTE5NjEyMDhf/phototwo.jpg","titleReli":"BERO GOSPEL"},
 
+{"descriptionReli":"Radio Télé Silo est une chaîne chrétienne","sourceReli":["https://jr7yv9gmla4v-hls-live.5centscdn.com/radiotvsilo/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"],"subtitleReli":"All Channels","thumbReli":"https://od.lk/s/NDZfNTg4MjI5NDhf/Silotv.jpg","titleReli":"RADIO TÉLÉ SILO"},
+
 {"descriptionReli":"ONE-TV est une chaine Chrétienne emattan a kinshasa où vous disposez d'enseignements Chrétien français, des prédications et d'exhortations pour le développement de votre foi chrétienne.","sourceReli":["https://ssh101.bozztv.com/ssh101/onetvlive/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","titleReli":"ONE TV"},
+
+{"descriptionReli":"Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.","sourceReli":["https://tnt-television.com/METANOIA-STREAM1/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png","titleReli":"METANOIA TV"},
+
+{"descriptionReli":"CCPV TV est une chaine congolaise avec des divers programmes","sourceReli":["http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","titleReli":"CCPV TV"},
 
 {"descriptionReli":"AYA TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques et autres chritienne....","sourceReli":["https://amigofx.com:1936/ayatv/ayatv/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg","titleReli":"AYA TV"},
 
@@ -9,11 +15,7 @@
 
 {"descriptionReli":"Yakaar TV est la première chaîne de télévision chrétienne et liturgique au Sénégal. Yakaar TV vous fait découvrir la véritable culture du gospel Afro-Caribéen et la liturgie chrétienne.","sourceReli":["https://strhls.streamakaci.tv/yakaartv/yakaartv-multi/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODQ2ODkyMzZf/Yakaar.jpeg","titleReli":"YAKAAR TV"},
 
-{"descriptionReli":"CCPV TV est une chaine congolaise avec des divers programmes","sourceReli":["http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","titleReli":"CCPV TV"},
-
 {"descriptionReli":"EMCI TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne.","sourceReli":["http://185.59.221.131:8081/live/emci/playlist.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","titleReli":"EMCI TV"},
-
-{"descriptionReli":"Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.","sourceReli":["https://tnt-television.com/METANOIA-STREAM1/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png","titleReli":"METANOIA TV"},
 
 {"descriptionReli":"JKM TV est une chaîne chrétienne qui diffuse l'amour de JESUS CHRIST dans le monde entier..","sourceReli":["http://51.254.199.122:8080/JKMchurch/index.m3u8"],"subtitleReli":"By Channel","thumbReli":"https://od.lk/s/M18yNjk4Mzk4MDNf/jkmtv.png","titleReli":"JKM CHURCH"},
 
